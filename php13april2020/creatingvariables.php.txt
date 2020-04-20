@@ -1,0 +1,7 @@
+<?php
+// Write your code below:
+  $silly = "without common sense, absurd, ridiculous";
+
+  $sionse = "\nCodecademy is an education company. But not one in the way you might think. We're committed to build the best learning experience insid and out, making Codecademy the best place for our team to learn, teach, and create the online learning experience of the futur.";
+
+  $favorite_food = "\n" . "tur" . "duck" . "en";
